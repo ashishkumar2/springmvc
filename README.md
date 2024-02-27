@@ -1,3 +1,6 @@
+To Start Jboss in local go to JBOSS EAP FOLDER BIN in terminal ./standalone.sh
+
+
 To deploy a Spring WAR file in JBoss EAP (Enterprise Application Platform) and start the application, you can follow these general steps:
 
 Prepare the WAR file: Ensure that your Spring application is packaged as a WAR (Web Archive) file. This WAR file should contain all necessary resources and dependencies.
